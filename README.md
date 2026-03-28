@@ -1,7 +1,8 @@
 # Data Structure Assignment
 
-Name: YOUR NAME  
-Roll Number: YOUR ROLL NUMBER  
+Name: P.Mohan shabarish
+Roll Number: 65
+PRN NO:250200199
 Course: Introduction to Data Structure  
 
 ## Description
